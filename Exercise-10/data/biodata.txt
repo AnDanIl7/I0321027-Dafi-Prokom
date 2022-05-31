@@ -1,0 +1,6 @@
+Nama: Danil
+Umur: 20
+Alamat: Ngringo, Jaten, Karanganyar
+Nama: Dafi'
+Umur: 20
+Alamat: Jaten
